@@ -2,7 +2,7 @@ package raknet
 
 import (
 	"fmt"
-	"github.com/sandertv/go-raknet/internal"
+	"github.com/DannerTomas/go-raknet/internal"
 	"log/slog"
 	"maps"
 	"math"

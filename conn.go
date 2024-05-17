@@ -5,7 +5,7 @@ import (
 	"encoding"
 	"errors"
 	"fmt"
-	"github.com/sandertv/go-raknet/internal/message"
+	"github.com/DannerTomas/go-raknet/internal/message"
 	"io"
 	"net"
 	"net/netip"
